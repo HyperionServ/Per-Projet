@@ -13,8 +13,8 @@ if(_var == "") exitWith {""};
 switch (_var) do
 {
 	//Virtual Inventory Items
-	case "life_inv_oilu": {"Pétrol non traité"};
-	case "life_inv_oilp": {"Processed Oil"};
+	case "life_inv_oilu": {"Pétrole non traité"};
+	case "life_inv_oilp": {"Pétrole"};
 	case "life_inv_heroinu": {"Unprocessed Heroin"};
 	case "life_inv_heroinp": {"Processed Heroin"};
 	case "life_inv_cannabis": {"Cannabis"};
